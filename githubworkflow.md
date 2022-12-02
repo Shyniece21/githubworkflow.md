@@ -1,0 +1,3 @@
+# Things I am learning....
+
+Make sure that the git init command is done in the Directory NOT the file!
